@@ -1,0 +1,35 @@
+#skaititajs{
+    display: block;
+    text-align: center;
+    font-size: 4em;
+    font-family: Helvetica;
+}
+#poguMasivs{
+    text-align: center;
+}
+
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: hsl(348, 68%, 46%);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.20s;
+}
+.buttons:hover{
+    background-color: hsl(348, 90%, 32%);
+}
+
+#manaPoga{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: hsl(348, 68%, 46%);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.20s;
+}
+#manaPoga:hover{
+    background-color: hsl(348, 90%, 32%);
+}
