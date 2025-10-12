@@ -1,3 +1,9 @@
+#lielaisVirsraksts{
+    text-align: center;
+    font-size: 3em;
+    color: hsl(120, 98%, 23%);
+    font-family: helvetica; 
+}
 #skaititajs{
     display: block;
     text-align: center;
@@ -32,4 +38,18 @@
 }
 #manaPoga:hover{
     background-color: hsl(348, 90%, 32%);
+}
+
+a {
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: hsl(0, 0%, 100%);
+    font-family: helvetica; 
+    transition: color 3.90s;
+    background-color: hsl(127, 82%, 25%);
+    border-radius: 5px;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(163, 10, 10);
 }

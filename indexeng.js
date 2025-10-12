@@ -18,9 +18,7 @@ pogaNotirit.onclick = function(){
 }
 const manaPoga = document.getElementById("manaPoga");
 manaPoga.addEventListener('click', function(e) {
-    const vards = prompt('Kāds ir tavs vārds?');
+    const vards = prompt('What is your name?');
     console.log(vards)
 //    document.body.innerHTML = "<h1>Sveiki, " + vards + "!</h1>"
 });
-
-
